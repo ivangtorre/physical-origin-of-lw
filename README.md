@@ -7,5 +7,6 @@ On the physical origin of linguistic laws and lognormality in speech
 # Install requirements
 pip3 install -r requirements.txt
 
-# R
+# Reproducibility of results and figures.
+The research is based on the free acces Buckeye corpus which is first preprocessed into a csv table. 
  
