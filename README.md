@@ -4,3 +4,8 @@ Supporting script for reproducying all the results and figures in Royal Society 
 Free to use citing:
 On the physical origin of linguistic laws and lognormality in speech
 
+# Install requirements
+pip3 install -r requirements.txt
+
+# R
+ 
