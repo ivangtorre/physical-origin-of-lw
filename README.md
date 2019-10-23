@@ -8,12 +8,7 @@ Torre Iván G., Luque Bartolo, Lacasa Lucas, Kello Christopher T. and Hernández
 pip3 install -r requirements.txt
 
 # Reproducibility of results and figures.
-The research is based on the free acces Buckeye corpus which is first preprocessed into a csv table. 
-This csv table is located in "doi:10.5061/dryad.4ss043q" and could be downloaded directly from there.
+The research is based on the free acces for noncomercial uses Glissando corpus http://prado.uab.cat/glissando/es/index.html.
+This corpus is first preprocessed into a csv table. This csv table is located in____________ and could be downloaded directly from there.
 
-The Jupyter notebook script "Reproducibility_of_linguistic_laws_in_oral_comunication_and_lognormality_in_speech.ipynb" automatically download the preprocessed table and compute all results and figures shown in "On the physical origin of linguistic laws and lognormality in speech"
-
-The table is generated through the jupyter notebook script "SI_ProcessBuckeyeCorpusToTable.ipynb" 
-
-Please contact the authors for any inquiry
  
