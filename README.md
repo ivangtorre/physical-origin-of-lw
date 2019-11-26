@@ -4,6 +4,8 @@ Supporting script for reproducying all the results and figures in Royal Society 
 Free to use citing:
 Torre Iván G., Luque Bartolo, Lacasa Lucas, Kello Christopher T. and Hernández-Fernández Antoni On the physical origin of linguistic laws and lognormality in speech. 6 R. Soc. open sci. http://doi.org/10.1098/rsos.191023
 
+https://royalsocietypublishing.org/doi/10.1098/rsos.191023
+
 # Install requirements
 pip3 install -r requirements.txt
 
